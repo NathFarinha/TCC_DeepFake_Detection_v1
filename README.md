@@ -1,5 +1,5 @@
 
-![CAPA - Gif - Detecção de Deep Fakes](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/450e616f-9c57-417b-9e19-81a6c111c6d1)
+![CAPA - Gif - Detecção de Deep Fakes](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/1d8e7ed7-ed14-4cec-ba0c-3392e3cead90)
 
 <h1 align="center"> Detecção de Deepfakes </h1>
 
