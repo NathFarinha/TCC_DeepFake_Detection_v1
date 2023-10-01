@@ -5,43 +5,33 @@
 
 # Índice 
 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Visão Geral](#visao-geral)
+* [Funcionalidades](#funcionalidades)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
 
 ## Visão Geral
 
-Este é um projeto de detecção de deepfakes que visa identificar vídeos e imagens falsificadas usando técnicas de aprendizado de máquina. O objetivo deste projeto é aumentar a conscientização sobre a ameaça dos deepfakes e fornecer uma ferramenta para sua detecção.
+Este é um projeto de detecção de deepfakes que visa identificar vídeos e imagens falsificadas usando técnicas de aprendizado profundo. O objetivo deste projeto é aumentar a conscientização sobre a ameaça dos deepfakes e fornecer uma ferramenta para sua detecção.
+Foram analisado algumas redes EfficientNet e a Xception, a fim de comparar seus resultados na datecção da DeepFakes.
+
+Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
+
+![Detecção de Deep Fakes - APP Streamlit - GIF demonstracao](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/d35e95eb-dad7-442f-b9c9-3e70b8b2dc93)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 
 ## Funcionalidades
 
 - Detecção de deepfakes em vídeos e imagens.
-- Suporte para vários modelos de aprendizado de máquina.
+- Suporte para vários modelos de aprendizado de máquina (EfficientNetB4, EfficientNetB4.
 - Integração com diferentes fontes de dados para treinamento e teste.
 
-## Instalação
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/deepfake-detection.git
-
-
-
-
-
-  
+## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o site Flask para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 
-![Detecção de Deep Fakes - APP Streamlit - GIF demonstracao](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/d35e95eb-dad7-442f-b9c9-3e70b8b2dc93)
+
 
 
 
