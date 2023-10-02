@@ -62,8 +62,13 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
 [Xception PyTorch](https://github.com/tstandley/Xception-PyTorch)
 
 ## Créditos
-[Nathalia Farinha Rodrigues](www.linkedin.com/in/nathalia-farinha-455b01219)
-
+Nathalia Farinha Rodrigues
 
 Aluna de Engenharia Elétrica na Pontifícia Universidade Católica de Campinas
+
+
+[LinkedIn](www.linkedin.com/in/nathalia-farinha-455b01219)
+
+
+
 
