@@ -28,22 +28,22 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 ## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o APP Streamlit para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
 
-### APP Streamlit
+#### APP Streamlit
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/56409b5ed1648be9fa21e5a6483e79ba8dab3388/Colab%20Notebooks/PREDICTIONS/Streamlit_APP.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Gerar resultados dos modelos pré-treinados nos 1000 vídeos de teste
+#### Gerar resultados dos modelos pré-treinados nos 1000 vídeos de teste
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/c9418e0833c70102c7e056846653ef70885a2566/Colab%20Notebooks/RESULTADOS/Generate_results_DFDC.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Gerar resultados das redes individuais - Matriz confusão / Curva ROC
+#### Gerar resultados das redes individuais - Matriz confusão / Curva ROC
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Gerar resultados das fusões das redes
+#### Gerar resultados das fusões das redes
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results_net_fusion_paper.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
