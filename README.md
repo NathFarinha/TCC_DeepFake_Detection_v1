@@ -18,10 +18,6 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 
 ![Detecção de Deep Fakes - APP Streamlit - GIF demonstracao](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/d35e95eb-dad7-442f-b9c9-3e70b8b2dc93)
 
-<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/56409b5ed1648be9fa21e5a6483e79ba8dab3388/Colab%20Notebooks/PREDICTIONS/Streamlit_APP.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ## Funcionalidades
 
 - Detecção de deepfakes em vídeos e imagens.
@@ -31,7 +27,9 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 ## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o site Flask para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/56409b5ed1648be9fa21e5a6483e79ba8dab3388/Colab%20Notebooks/PREDICTIONS/Streamlit_APP.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
