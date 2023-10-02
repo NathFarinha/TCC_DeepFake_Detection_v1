@@ -30,9 +30,7 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 [Facebook's DeepFake Detection Challenge (DFDC) train dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data) | [arXiv paper](https://arxiv.org/abs/2006.07397)
 
 ### FFPP
-
-
-
+[FaceForensics++](https://github.com/ondyari/FaceForensics/blob/master/dataset/README.md) | [arXiv paper](https://arxiv.org/abs/1901.08971)
 
 ## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o APP Streamlit para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
@@ -57,7 +55,11 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Referências
+[EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+[Xception PyTorch](https://github.com/tstandley/Xception-PyTorch)
 
-
-
+## Créditos
+[Nathalia Farinha Rodrigues](www.linkedin.com/in/nathalia-farinha-455b01219)
+Aluna de Engenharia Elétrica na Pontifícia Universidade Católica de Campinas
 
