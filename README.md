@@ -1,8 +1,6 @@
 
 ![CAPA - Gif - Detecção de Deep Fakes](https://github.com/NathFarinha/TCC_DeepFake_Detection_v1/assets/89995351/1d8e7ed7-ed14-4cec-ba0c-3392e3cead90)
 
-# ANÁLISE DE MODELOS DETECTORES DE DEEPFAKE USANDO APRENDIZADO PROFUNDO
-
 # Índice 
 
 * [Visão Geral](#visao-geral)
