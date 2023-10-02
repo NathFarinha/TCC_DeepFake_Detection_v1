@@ -27,6 +27,7 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 ## Datasets
 
 ### DFDC
+[Facebook's DeepFake Detection Challenge (DFDC) train dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data) | [arXiv paper](https://arxiv.org/abs/2006.07397)
 
 ### FFPP
 
