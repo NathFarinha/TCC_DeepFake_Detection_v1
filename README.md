@@ -57,9 +57,13 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
 
 ## Referências
 [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+
+
 [Xception PyTorch](https://github.com/tstandley/Xception-PyTorch)
 
 ## Créditos
 [Nathalia Farinha Rodrigues](www.linkedin.com/in/nathalia-farinha-455b01219)
+
+
 Aluna de Engenharia Elétrica na Pontifícia Universidade Católica de Campinas
 
