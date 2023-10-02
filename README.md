@@ -27,6 +27,7 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 ## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o site Flask para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
 
+Acesse o notebook para o APP Streamlit:
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/56409b5ed1648be9fa21e5a6483e79ba8dab3388/Colab%20Notebooks/PREDICTIONS/Streamlit_APP.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
