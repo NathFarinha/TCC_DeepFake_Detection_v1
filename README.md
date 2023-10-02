@@ -5,6 +5,7 @@
 
 * [Visão Geral](#visao-geral)
 * [Funcionalidades](#funcionalidades)
+* [Datasets](#datasets)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 
 ## Visão Geral
@@ -22,6 +23,15 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 - Suporte para vários modelos de aprendizado de máquina (Xception, EfficientNetB4, EfficientNetB4ST, EfficientNetAutoAttB4, EfficientNetAutoAttB4ST)
 - Integração com diferentes fontes de dados para treinamento e teste
 - Notebooks para geração e análise dos resultados
+
+## Datasets
+
+### DFDC
+
+### FFPP
+
+
+
 
 ## Acesso ao Projeto
 Códigos e notebooks relevantes para executar o APP Streamlit para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
