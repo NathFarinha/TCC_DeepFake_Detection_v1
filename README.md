@@ -12,7 +12,7 @@
 ## Visão Geral
 
 Este é um projeto de detecção de deepfakes que visa identificar vídeos e imagens falsificadas usando técnicas de aprendizado profundo. O objetivo deste projeto é aumentar a conscientização sobre a ameaça dos deepfakes e fornecer uma ferramenta para sua detecção.
-Foram analisado algumas redes EfficientNet e a Xception, a fim de comparar seus resultados na datecção da DeepFakes.
+Foram analisado algumas redes EfficientNet e a Xception, a fim de comparar seus resultados na detecção de DeepFakes.
 
 Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 
@@ -20,15 +20,31 @@ Inspirado no projeto: https://github.com/polimi-ispl/icpr2020dfdc.git
 
 ## Funcionalidades
 
-- Detecção de deepfakes em vídeos e imagens.
-- Suporte para vários modelos de aprendizado de máquina (EfficientNetB4, EfficientNetB4.
-- Integração com diferentes fontes de dados para treinamento e teste.
+- Detecção de deepfakes em vídeos e imagens
+- Suporte para vários modelos de aprendizado de máquina (Xception, EfficientNetB4, EfficientNetB4ST, EfficientNetAutoAttB4, EfficientNetAutoAttB4ST)
+- Integração com diferentes fontes de dados para treinamento e teste
+- Notebooks para geração e análise dos resultados
 
 ## Acesso ao Projeto
-Códigos e notebooks relevantes para executar o site Flask para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
+Códigos e notebooks relevantes para executar o APP Streamlit para detecção de deepfakes e realizar os testes nos modelos pré-treinados.
 
-### Acesse o notebook para o APP Streamlit:
+### APP Streamlit
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/56409b5ed1648be9fa21e5a6483e79ba8dab3388/Colab%20Notebooks/PREDICTIONS/Streamlit_APP.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Gerar resultados dos modelos pré-treinados nos 1000 vídeos de teste
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results_net_fusion_paper.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Gerar resultados das redes individuais - Matriz confusão / Curva ROC
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Gerar resultados das fusões das redes
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results_net_fusion_paper.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
