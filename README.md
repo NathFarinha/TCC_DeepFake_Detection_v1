@@ -55,6 +55,12 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+#### Gerar Deepfakes 
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/Gerar_deepfakes.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 ## Referências
 [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 
