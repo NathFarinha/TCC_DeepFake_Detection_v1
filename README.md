@@ -46,9 +46,13 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
 </a>
 
 #### Gerar resultados das redes individuais - Matriz confusão / Curva ROC
-<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results.ipynb">
+#<a target="_blank" #href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results.ipynb">
+#  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+#</a>
+<a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/main/Colab%20Notebooks/RESULTADOS/Analyze_results.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 
 #### Gerar resultados das fusões das redes
 <a target="_blank" href="https://colab.research.google.com/github/NathFarinha/TCC_DeepFake_Detection_v1/blob/2e9ec9cb20d6e3caeb7105abb80ce61ea01c644f/Colab%20Notebooks/RESULTADOS/Analyze_results_net_fusion_paper.ipynb">
