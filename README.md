@@ -72,10 +72,10 @@ Códigos e notebooks relevantes para executar o APP Streamlit para detecção de
 ## Créditos
 Nathalia Farinha Rodrigues
 
-Aluna de Engenharia Elétrica na Pontifícia Universidade Católica de Campinas
+Engenharia Eletricista na Pontifícia Universidade Católica de Campinas
 
 
-LinkedIn: www.linkedin.com/in/nathalia-farinha-455b01219
+LinkedIn: www.linkedin.com/in/nathaliafarinha
 
 
 
